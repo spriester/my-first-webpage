@@ -1,26 +1,30 @@
+body {
+  background-color: #ad96b7;
+}
+
 h1 {
-  color: purple;
+  color: #3a0949;
   text-align: center;
   font-family: sans-serif;
   font-weight: 800;
 }
 
 h2 {
-  color: gray;
+  color: #3f3f3f;
   text-align: center;
   font-family: sans-serif;
   font-weight: 700;
 }
 
 h3 {
-  color: gray;
+  color: #3f3f3f;
   text-align: left;
   font-family: sans-serif;
   font-weight: normal;
 }
 
 h4 {
-  color: gray;
+  color: #3f3f3f;
   text-align: left;
   font-family: sans-serif;
   font-weight: normal;
@@ -29,7 +33,7 @@ h4 {
 p {
   font-size: 12px;
   line-height: 20px;
-  color: gray;
+  color: #3f3f3f;
   text-align: left;
   font-family: sans-serif;
   font-weight: normal;
@@ -38,7 +42,7 @@ p {
 ul {
   font-size: 12px;
   line-height: 20px;
-  color: gray;
+  color: #3f3f3f;
   text-align: left;
   font-family: sans-serif;
   font-weight: normal;
@@ -47,7 +51,7 @@ ul {
 ol {
   font-size: 12px;
   line-height: 20px;
-  color: gray;
+  color: #3f3f3f;
   text-align: left;
   font-family: sans-serif;
   font-weight: normal;

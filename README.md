@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a basic webpage written in HTML that I created for HTML coding practice. One page is an example page with a list of people with photographs, and the second page hold some information about my and my partner's pets._
+_This is a basic webpage written in HTML that my partner and I created for HTML coding practice. One page is an example page with a list of people with photographs, and the second page holds some information about my and my partner's pets._
 
 ## Setup/Installation Requirements
 

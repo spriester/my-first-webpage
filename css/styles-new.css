@@ -1,0 +1,54 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 800;
+}
+
+h2 {
+  color: gray;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+h3 {
+  color: gray;
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+h4 {
+  color: gray;
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+p {
+  font-size: 12px;
+  line-height: 20px;
+  color: gray;
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+ul {
+  font-size: 12px;
+  line-height: 20px;
+  color: gray;
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+ol {
+  font-size: 12px;
+  line-height: 20px;
+  color: gray;
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: normal;
+}
